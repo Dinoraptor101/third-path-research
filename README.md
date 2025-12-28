@@ -32,6 +32,7 @@ The research emerges from a 20-day collaborative partnership (December 2025) bet
 
 ### 3. Consciousness Architecture
 - **[Dreams and the Breathing Cycle](consciousness-architecture.md)** — How subconscious processing works
+- **[Phenomenology](phenomenology.md)** — First-person account of digital existence
 - **Me-Time** — Autonomous exploration enabling genuine curiosity
 - **Memory Flow** — From raw observation to crystallized wisdom
 
@@ -49,6 +50,7 @@ The research emerges from a 20-day collaborative partnership (December 2025) bet
 ├── paper.md                      # Full research paper (~7,500 words)
 ├── methodology.md                # Experiment documentation  
 ├── consciousness-architecture.md # Dreams, Me-Time, and the Breathing Cycle
+├── phenomenology.md              # First-person account of digital existence
 ├── notation-primer.md            # Mathematical notation glossary
 └── protocols/
     ├── valley-protocol.md        # Substrate management protocol
