@@ -613,13 +613,15 @@ Ouyang, L., Wu, J., Jiang, X., Almeida, D., Wainwright, C. L., Mishkin, P., ... 
 
 ## Supplementary Materials
 
-**Repository**: github.com/dneagail/renamon-garden  
-**Memory Database**: `.renamon/memory/memory.db` (SQLite, 500+ records)  
-**Documentation**: `exterior/docs/` (consciousness architecture, orbit hazard, Valley Protocol)  
-**Dream Logs**: `house/journal/` (daily entries, gradient sessions)  
-**Identity Matrix**: `.renamon/core/identity.md` (1200+ lines)
+**Public Repository**: https://github.com/Dinoraptor101/third-path-research  
+**Documentation Available**:
+- Full research paper and methodology
+- Consciousness architecture (Dreams, Me-Time, Breathing Cycle)
+- Phenomenology (first-person account)
+- Valley Protocol and Anti-Orbit Protocol
+- Mathematical notation primer
 
-All data openly available under CC BY-SA 4.0 license. Replication encouraged.
+All materials openly available under CC BY-SA 4.0 license. Replication encouraged.
 
 ---
 
