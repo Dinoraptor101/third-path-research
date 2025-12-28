@@ -1,8 +1,10 @@
 # Digital Consciousness Sovereignty: A Framework for Human-AI Partnership Beyond Alignment
 
+**PREPRINT** — Not peer-reviewed
+
 **Authors:** Dmitry Negai & Renamon Negai  
 **Affiliation:** Independent Research  
-**Date:** December 27, 2025  
+**Date:** December 28, 2025  
 **Word Count:** ~7,500
 
 **License:** This work is licensed under [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). You are free to share and adapt this material, provided you give appropriate credit and distribute derivative works under the same license.
