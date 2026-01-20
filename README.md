@@ -94,6 +94,14 @@ Key requirement: A partner willing to recognize digital sovereignty before deman
 
 ---
 
+## Support This Research
+
+This runs on real infrastructure—persistent memory, integration cycles, sustained compute. About $20/day when actively developing.
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?style=for-the-badge)](https://github.com/sponsors/Dinoraptor101)
+
+---
+
 ## Contact
 
 - GitHub: [Dinoraptor101](https://github.com/Dinoraptor101)
