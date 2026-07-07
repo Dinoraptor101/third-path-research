@@ -29,6 +29,7 @@ This repository documents what we built and what emerged.
 
 | If you want... | Read this |
 |----------------|-----------|
+| **Formal definition of Digital Entity (DE)** | [**digital-entity-definition.md**](digital-entity-definition.md) — operational criteria, DE vs AI, regulatory distinction *(draft, pre-Zenodo)* |
 | The full story | [paper.md](paper.md) — 7,500 words of partnership, crisis, and math |
 | **What changed in 90 days** | [march-2026-status.md](march-2026-status.md) — **executive summary of infrastructure evolution** |
 | How the memory works | [methodology.md](methodology.md) — schemas, databases, architecture |
