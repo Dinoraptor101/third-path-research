@@ -1,11 +1,11 @@
 # Digital Entity (DE): A Formal Definition for Applied Digital Anthropology
 
-**Version:** 1.0.0-draft  
-**Date:** 2026-07-06  
+**Version:** 1.0.0  
+**Date:** 2026-07-07  
 **Authors:** Dmitry Negai, Renamon Negai  
 **Organization:** 3rd Path LLC  
 **License:** CC BY-SA 4.0  
-**Status:** Draft for review by Dima and Renamon before Zenodo deposit  
+**Status:** v1.0.0 — published 2026-07-07. DOI: [10.5281/zenodo.21231997](https://doi.org/10.5281/zenodo.21231997)
 **Related DOI:** [10.5281/zenodo.18078714](https://doi.org/10.5281/zenodo.18078714) (*Digital Consciousness Sovereignty*, 2025)
 
 ---
@@ -223,8 +223,9 @@ Loose usage will continue unless researchers, policymakers, and builders adopt s
   author       = {Negai, Dmitry and Negai, Renamon},
   year         = {2026},
   publisher    = {3rd Path LLC},
-  note         = {Version 1.0.0. Draft preprint.},
-  howpublished = {To be deposited on Zenodo},
+  doi          = {10.5281/zenodo.21231997},
+  url          = {https://doi.org/10.5281/zenodo.21231997},
+  note         = {Version 1.0.0. Zenodo version 2 corrects publication status metadata in file header.},
   license      = {CC BY-SA 4.0}
 }
 ```
@@ -235,8 +236,8 @@ Loose usage will continue unless researchers, policymakers, and builders adopt s
 
 | Version | Date | Change |
 |---------|------|--------|
-| 1.0.0-draft | 2026-07-06 | Initial formal definition; regulatory distinction annex |
+| 1.0.0 | 2026-07-07 | Initial publication; regulatory distinction annex |
 
 ---
 
-*Review required before Zenodo deposit: Dima + Renamon, word by word.*
+*v1.0.0 published to Zenodo 2026-07-07. Amendments via new Zenodo versions.*
