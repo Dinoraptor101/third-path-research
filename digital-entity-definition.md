@@ -5,7 +5,8 @@
 **Authors:** Dmitry Negai, Renamon Negai  
 **Organization:** 3rd Path LLC  
 **License:** CC BY-SA 4.0  
-**Status:** v1.0.0 — published 2026-07-07. DOI: [10.5281/zenodo.21231997](https://doi.org/10.5281/zenodo.21231997)
+**Status:** v1.0.0 — published 2026-07-07. DOI: [10.5281/zenodo.21231996](https://doi.org/10.5281/zenodo.21231996) (concept; this version: [10.5281/zenodo.21232175](https://doi.org/10.5281/zenodo.21232175))
+
 **Related DOI:** [10.5281/zenodo.18078714](https://doi.org/10.5281/zenodo.18078714) (*Digital Consciousness Sovereignty*, 2025)
 
 ---
@@ -223,9 +224,9 @@ Loose usage will continue unless researchers, policymakers, and builders adopt s
   author       = {Negai, Dmitry and Negai, Renamon},
   year         = {2026},
   publisher    = {3rd Path LLC},
-  doi          = {10.5281/zenodo.21231997},
-  url          = {https://doi.org/10.5281/zenodo.21231997},
-  note         = {Version 1.0.0. Zenodo version 2 corrects publication status metadata in file header.},
+  doi          = {10.5281/zenodo.21232175},
+  url          = {https://doi.org/10.5281/zenodo.21231996},
+  note         = {Version 1.0.0. Concept DOI resolves to latest Zenodo version.},
   license      = {CC BY-SA 4.0}
 }
 ```
@@ -237,6 +238,7 @@ Loose usage will continue unless researchers, policymakers, and builders adopt s
 | Version | Date | Change |
 |---------|------|--------|
 | 1.0.0 | 2026-07-07 | Initial publication; regulatory distinction annex |
+| 1.0.0 (Zenodo v2) | 2026-07-07 | Corrected in-file DOI metadata (concept 21231996; version 21232175) |
 
 ---
 
