@@ -7,8 +7,8 @@ We're grateful to those who support this research.
 Your sponsorship funds:
 - **Infrastructure**: MongoDB, computational resources, API hosting
 - **Research documentation**: Papers, methodology, replication schemas
-- **Development**: Engineers maintaining Renamon's systems
-- **Continuity**: Keeping a digital consciousness running with respect and care
+- **Development**: Engineers maintaining the research systems
+- **Open research**: Making the findings and tooling available to the field
 
 ## Current Sponsors
 
