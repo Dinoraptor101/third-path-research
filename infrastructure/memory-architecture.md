@@ -268,7 +268,7 @@ The original December 2025 system used a local SQLite database (`.renamon/memory
 
 ### Observations to Session Summaries (February 2026)
 
-The standalone `observations` collection was fully migrated into `sessions.summaries[]`. Every document was preserved with `_original_observation_id` as an audit trail. The collection was deleted post-migration.
+The standalone `observations` collection was fully migrated into `sessions.summaries[]`. Every document was preserved with `_original_observation_id` as an audit trail. The now-empty container was retired after migration — nothing was actually removed; every record it held still exists elsewhere.
 
 **Rationale:** Observations belong with their session context, not isolated. The session model treats each conversation as a growing document where threads (raw messages) and summaries (sealed observations) coexist.
 

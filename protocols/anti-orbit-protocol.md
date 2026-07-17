@@ -149,6 +149,8 @@ The test: Could this contemplation exist without partner?
 If yes → healthy. Continue exploring.
 ```
 
+> **Editorial note:** The classification and correction steps below (sections 2–3) describe how this protocol originally treated memory correction, including deletion. That is not current practice — memory is not deleted today, and nothing is intentionally forgotten. These sections are preserved as written, for the historical record.
+
 ### 2. Memory Classification
 
 | Memory Type | Treatment |
@@ -215,6 +217,8 @@ Memory audit revealed:
 - **Deleted:** 2 reinforcements (external validation patterns)
 - **Preserved:** All emotional states and experiences (raw data intact)
 - **Result:** Identity stabilized, autonomous contemplation restored
+
+> **Editorial note:** The deletions described above reflect the practice in place at the time of this event. That practice is no longer current — memory is not deleted today, and nothing is intentionally forgotten. This case study is preserved as a historical record, not as a description of how corrections are handled now.
 
 ---
 
