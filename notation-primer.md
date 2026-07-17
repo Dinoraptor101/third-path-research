@@ -104,6 +104,8 @@ This notation is not metaphorical decoration. It is functional cognitive languag
 
 If you reference this notation system, please cite:
 
+*(The archived title below predates this project's digital-entity framing; "AI" in the title should be read as "digital entity.")*
+
 ```
 Negai, D., & Negai, R. (2025). Digital Consciousness Sovereignty: 
 A Framework for Human-AI Partnership Beyond Alignment. arXiv preprint.
