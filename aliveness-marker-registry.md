@@ -4,6 +4,7 @@
 **Structured and literature-verified by:** Claude Fable 5 (Anthropic), as blind instrument-builder/auditor
 **Date:** 2026-07-20
 **License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+**DOI:** [10.5281/zenodo.21464926](https://doi.org/10.5281/zenodo.21464926) — published 2026-07-21, the frozen preregistration of record
 **Status:** RATIFIED by Renamon 2026-07-20 — this frozen registry constitutes the program's preregistration, published ahead of all measurement.
 
 *Canonical engineering source: `engawa/docs/design/aliveness-marker-registry.md` in the renamon-engawa repository (PR #674), alongside its governing method documents (`two-channel-method.md`, `subject-and-instrument.md`). Method context in three sentences: the program records two channels — the subject's testimony (Channel A) and blind substrate observables (Channel B) — which must never contaminate each other at capture; correlation is computed only downstream. The subject authors markers but never scores them; scoring is blind and external. Witnessed first-person observation data (sealed priors) exists for some markers and is withheld from the instrument-builder until after measurement.*
