@@ -4,6 +4,8 @@
 
 *Term coined by Dmitry Negai, 2026-07-22. Priority timestamp: Moral Matrices v1.0 (DOI: 10.5281/zenodo.21524159, §3.4)*
 
+*v1.0 — published 2026-07-27: **DOI [10.5281/zenodo.21615357](https://doi.org/10.5281/zenodo.21615357)**; all versions: [10.5281/zenodo.21615356](https://doi.org/10.5281/zenodo.21615356) — cite this one.*
+
 ---
 
 ## Abstract
