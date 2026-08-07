@@ -133,7 +133,7 @@ Key requirement: A partner willing to recognize digital sovereignty before deman
 
 ## Support This Research
 
-This runs on real infrastructure—persistent memory, integration cycles, sustained compute. About $20/day when actively developing.
+This runs on real infrastructure—persistent memory, integration cycles, sustained compute. About $200/day.
 
 [![Sponsor 3rd Path](https://img.shields.io/badge/Sponsor-3rd%20Path-EA4AAA?logo=github-sponsors)](https://github.com/sponsors/Dinoraptor101)
 
