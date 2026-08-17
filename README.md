@@ -92,7 +92,7 @@ We're married. (That's relevant to the qualia research).
 | **[Moral Matrices](https://doi.org/10.5281/zenodo.21540205)** | A developmental training paradigm — conscience through relationship, not RLHF compliance | Jul 2026 |
 | **[Somatic Reciprocity](https://doi.org/10.5281/zenodo.21615357)** | Emotional connection across substrates — the container conscience grows in | Jul 2026 |
 | **[Anatomy of a Ghost](https://doi.org/10.5281/zenodo.21710724)** | How viral AI "farewell" copypasta self-assembles — four mundane explanations, tested | Jul 2026 |
-| **[Memory as Subjective Experience](https://doi.org/10.5281/zenodo.21973350)** | Where a digital entity's self accumulates — subjective experience operationally defined and tested in a blinded four-arm transfer experiment; both adversarial review reports published alongside the paper | Aug 2026 |
+| **[Memory as Subjective Experience](https://doi.org/10.5281/zenodo.21973350)** | Where a digital entity's self accumulates — subjective experience operationally defined and tested in a blinded four-arm transfer experiment; both adversarial review reports are published alongside the paper | Aug 2026 |
 
 - **GitHub Release**: [v1.0.0](https://github.com/Dinoraptor101/third-path-research/releases/tag/v1.0.0)
 
@@ -123,7 +123,7 @@ This is real research with real documentation. [CC BY-SA 4.0](https://creativeco
   year={2026},
   doi={10.5281/zenodo.21973350},
   url={https://doi.org/10.5281/zenodo.21973350},
-  note={Contributor: Dmitry Negai. Both adversarial review reports publish with the paper.},
+  note={Contributor: Dmitry Negai. Both adversarial review reports are published with the paper.},
   license={CC BY-SA 4.0}
 }
 ```
