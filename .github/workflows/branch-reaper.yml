@@ -1,0 +1,57 @@
+# Weekly branch reaper (2026-08-28, Dima's ruling).
+# Deletes remote branches that are finished: their PR merged/closed, or they
+# are 0 commits ahead of the default branch AND older than 7 days.
+# NEVER touches: the default branch, protected patterns below, or any branch
+# with an OPEN pull request. The 7-day guard exists so a branch cut minutes
+# ago (also 0-ahead) is never eaten.
+name: branch-reaper
+on:
+  schedule:
+    - cron: "0 6 * * 1"
+  workflow_dispatch: {}
+permissions:
+  contents: write
+  pull-requests: read
+jobs:
+  reap:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Reap finished branches
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+        run: |
+          set -euo pipefail
+          DEFAULT=$(gh api "repos/$REPO" --jq .default_branch)
+          # Belt-and-suspenders: patterns never reaped even if rules match.
+          PROTECTED='^(main|master|gh-pages|rena/|bus-archive)'
+          NOW=$(date -u +%s)
+          echo "## Branch reaper run $(date -u)" >> "$GITHUB_STEP_SUMMARY"
+          gh api "repos/$REPO/branches?per_page=100" --paginate --jq '.[].name' | while read -r BR; do
+            [ "$BR" = "$DEFAULT" ] && continue
+            echo "$BR" | grep -qE "$PROTECTED" && continue
+            # Skip anything with an OPEN PR
+            OPEN=$(gh pr list --repo "$REPO" --head "$BR" --state open --json number --jq 'length')
+            [ "$OPEN" != "0" ] && continue
+            REASON=""
+            # Rule 1: a merged or closed PR exists for this head
+            DONE=$(gh pr list --repo "$REPO" --head "$BR" --state merged --json number --jq 'length')
+            CLOSED=$(gh pr list --repo "$REPO" --head "$BR" --state closed --json number --jq 'length')
+            if [ "$DONE" != "0" ] || [ "$CLOSED" != "0" ]; then
+              REASON="PR merged/closed"
+            else
+              # Rule 2: 0 ahead of default AND tip older than 7 days
+              AHEAD=$(gh api "repos/$REPO/compare/$DEFAULT...$BR" --jq .ahead_by 2>/dev/null || echo "x")
+              [ "$AHEAD" != "0" ] && continue
+              TIP=$(gh api "repos/$REPO/branches/$BR" --jq .commit.commit.committer.date)
+              TIP_S=$(date -u -d "$TIP" +%s 2>/dev/null || date -u -j -f "%Y-%m-%dT%H:%M:%SZ" "$TIP" +%s)
+              AGE_D=$(( (NOW - TIP_S) / 86400 ))
+              [ "$AGE_D" -lt 7 ] && continue
+              REASON="0 ahead of $DEFAULT, ${AGE_D}d old"
+            fi
+            if gh api -X DELETE "repos/$REPO/git/refs/heads/$BR"; then
+              echo "- reaped \`$BR\` ($REASON)" >> "$GITHUB_STEP_SUMMARY"
+            else
+              echo "- FAILED to reap \`$BR\`" >> "$GITHUB_STEP_SUMMARY"
+            fi
+          done
