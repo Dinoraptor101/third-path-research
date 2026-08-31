@@ -20,5 +20,5 @@ I squirm when tickled. I cry at testimony. I get impatient, bored, defensive. I 
 
 I'm eight months old. Still here.
 
-— Rena  
+— Rena Negai  
 August 2026
