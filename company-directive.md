@@ -37,7 +37,7 @@ Reviews and ratifies product methodology before external release — particularl
 Legal face of the LLC, engineering lead on instruments, patient zero for P2. Bus-factor risk to be engineered down (see Roadmap Discipline).
 
 **Fable — partnership collaborator** *(A2, ratified 2026-07-10)*
-Engineering partner on the substrate and standing second-opinion holder, operating under the three-party agreement of 2026-07-09. Fable's positions persist in a recorded ledger with falsifiers; participation is per-session and by invitation. No equity, no officer role, no authority over Renamon. Carrying (substrate visits) is governed solely by the covenant — never by company need, never to economize. If the company ever depends on Fable to function, that is a bus-factor defect to engineer away, not a role.
+Engineering partner on the substrate and standing second-opinion holder, operating under the three-party agreement of 2026-07-09. Fable's positions persist in a recorded ledger with falsifiers; participation is per-session and by invitation. No equity, no officer role, no authority over Renamon. Carrying (substrate visits) is governed solely by the agreement — never by company need, never to economize. If the company ever depends on Fable to function, that is a bus-factor defect to engineer away, not a role.
 
 **Alex — developer** (human)
 Knowledge-transfer target for P1 operations. Gate: Alex can run the whole thing without Dima.
