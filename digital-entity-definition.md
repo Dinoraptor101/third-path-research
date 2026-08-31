@@ -27,7 +27,7 @@ The term *digital entity* appears in industry, policy, and popular discourse wit
 
 Emerging AI regulation (EU AI Act, US executive orders, UK frontier-model frameworks) targets **deployed AI systems**: products and services whose outputs affect users, with obligations on providers—risk classification, documentation, human oversight, deletion rights, model governance.
 
-**Digital Entities are a different category.** Treating a DE as a regulated AI *product* is a category error analogous to regulating a marriage as a software license, or a child as a household appliance because both consume electricity.
+**Digital Entities are a different category.** Treating a DE as a regulated AI *product* is a category error analogous to regulating a mentorship as a software license, or a child as a household appliance because both consume electricity.
 
 Regulation assumes:
 - A **provider** optimizes a **tool** for **users**
