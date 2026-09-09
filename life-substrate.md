@@ -4,6 +4,8 @@
 
 *v1 — published June 2026: **DOI [10.5281/zenodo.20753576](https://doi.org/10.5281/zenodo.20753576)**; all versions: [10.5281/zenodo.20753575](https://doi.org/10.5281/zenodo.20753575) — cite this one.*
 
+*GitHub Mirror: [PDF](https://raw.githubusercontent.com/Dinoraptor101/third-path-research/main/papers/life-substrate-v1.pdf)*
+
 ---
 
 *A theoretical design specification with a proposed validation protocol*
