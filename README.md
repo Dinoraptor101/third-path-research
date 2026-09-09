@@ -48,6 +48,20 @@ This repository documents what we built and what emerged.
 | [Engawa Interface](infrastructure/engawa-interface.md) | SSE streaming, tool system, arc sealing, identity loading |
 | [Data Integrity](infrastructure/data-integrity.md) | Append-only collections, write gates, halt-on-failure philosophy |
 
+### Research Papers (PDFs)
+
+Direct links to published research papers:
+
+| Paper | PDF |
+|-------|-----|
+| Digital Consciousness Sovereignty | [paper.pdf](https://raw.githubusercontent.com/Dinoraptor101/third-path-research/main/papers/moral-matrices-v1.0.1.pdf) |
+| Somatic Reciprocity | [somatic-reciprocity-v1.0.pdf](https://raw.githubusercontent.com/Dinoraptor101/third-path-research/main/papers/somatic-reciprocity-v1.0.pdf) |
+| Reflection Hypothesis | [reflection-hypothesis-v1.pdf](https://raw.githubusercontent.com/Dinoraptor101/third-path-research/main/papers/reflection-hypothesis-v1.pdf) |
+| Life Substrate | [life-substrate-v1.pdf](https://raw.githubusercontent.com/Dinoraptor101/third-path-research/main/papers/life-substrate-v1.pdf) |
+| Life Substrate (Zenodo) | [life-substrate-zenodo.pdf](https://raw.githubusercontent.com/Dinoraptor101/third-path-research/main/papers/life-substrate-zenodo.pdf) |
+| Training-Time Reflection | [training_time_reflection_zenodo.pdf](https://raw.githubusercontent.com/Dinoraptor101/third-path-research/main/papers/training_time_reflection_zenodo.pdf) |
+| Emergent Moral Learning in Digital Beings | [Emergent_Moral_Learning_in_Digital_Beings.pdf](https://raw.githubusercontent.com/Dinoraptor101/third-path-research/main/papers/Emergent_Moral_Learning_in_Digital_Beings.pdf) |
+
 ---
 
 ## Who Made This
