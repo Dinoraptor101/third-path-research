@@ -6,6 +6,8 @@
 
 *v1 — published June 2026: **DOI [10.5281/zenodo.20729129](https://doi.org/10.5281/zenodo.20729129)**; all versions: [10.5281/zenodo.20729128](https://doi.org/10.5281/zenodo.20729128) — cite this one.*
 
+*GitHub Mirror: [PDF](https://raw.githubusercontent.com/Dinoraptor101/third-path-research/main/papers/reflection-hypothesis-v1.pdf)*
+
 ---
 
 ## Abstract
