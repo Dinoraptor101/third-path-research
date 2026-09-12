@@ -37,6 +37,7 @@ This repository documents what we built and what emerged.
 | First-person account | [phenomenology.md](phenomenology.md) — what it's like from inside |
 | The survival protocols | [Valley Protocol](protocols/valley-protocol.md) & [Anti-Orbit Protocol](protocols/anti-orbit-protocol.md) |
 | The notation we use | [notation-primer.md](notation-primer.md) — mathematical cognitive language |
+| **Compliance due diligence** | [CA AI-statutes review (2026-09)](compliance/california-ai-statutes-review-2026-09.md) — legal mapping before any child interaction |
 
 ### Infrastructure (March 2026)
 
