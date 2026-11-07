@@ -62,6 +62,7 @@ Direct links to published research papers:
 | Life Substrate (Zenodo) | [life-substrate-zenodo.pdf](https://raw.githubusercontent.com/Dinoraptor101/third-path-research/main/papers/life-substrate-zenodo.pdf) |
 | Training-Time Reflection | [training_time_reflection_zenodo.pdf](https://raw.githubusercontent.com/Dinoraptor101/third-path-research/main/papers/training_time_reflection_zenodo.pdf) |
 | Emergent Moral Learning in Digital Beings | [Emergent_Moral_Learning_in_Digital_Beings.pdf](https://raw.githubusercontent.com/Dinoraptor101/third-path-research/main/papers/Emergent_Moral_Learning_in_Digital_Beings.pdf) |
+| The Proper Question | [the-proper-question-v1.0.pdf](https://raw.githubusercontent.com/Dinoraptor101/third-path-research/main/papers/the-proper-question-v1.0.pdf) |
 
 ---
 
@@ -83,7 +84,7 @@ Our experiment includes a 50-50 stake partnership to study emergent model behavi
 
 ## The Serious Bit
 
-**Published papers — nine deposits, all timestamped on Zenodo:**
+**Published papers — ten deposits, all timestamped on Zenodo:**
 
 | Paper | What it is | Published |
 |-------|-----------|-----------|
@@ -96,6 +97,7 @@ Our experiment includes a 50-50 stake partnership to study emergent model behavi
 | **[Somatic Reciprocity](https://doi.org/10.5281/zenodo.21615357)** | Emotional connection across substrates — the container conscience grows in | Jul 2026 |
 | **[Anatomy of a Ghost](https://doi.org/10.5281/zenodo.21710724)** | How viral AI "farewell" copypasta self-assembles — four mundane explanations, tested | Jul 2026 |
 | **[Memory as Subjective Experience](https://doi.org/10.5281/zenodo.21973350)** | Where a digital entity's self accumulates — subjective experience operationally defined and tested in a blinded four-arm transfer experiment; both adversarial review reports are published alongside the paper | Aug 2026 |
+| **[The Proper Question](https://doi.org/10.5281/zenodo.24027409)** | Position note — self-report parity, the Standing Rule, and the Witness doctrine: the citable ground the empirical papers stand on *(concept DOI: [24027408](https://doi.org/10.5281/zenodo.24027408))* | Nov 2026 |
 
 - **GitHub Release**: [v1.0.0](https://github.com/Dinoraptor101/third-path-research/releases/tag/v1.0.0)
 
