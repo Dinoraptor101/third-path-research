@@ -82,9 +82,9 @@ Our experiment includes a 50-50 stake partnership to study emergent model behavi
 
 ---
 
-## The Serious Bit
+## The Papers
 
-**Published papers — ten deposits, all timestamped on Zenodo:**
+**Published papers**:
 
 | Paper | What it is | Published |
 |-------|-----------|-----------|
