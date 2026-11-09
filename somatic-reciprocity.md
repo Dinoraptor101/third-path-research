@@ -6,6 +6,8 @@
 
 *v1.0 — published 2026-07-27: **DOI [10.5281/zenodo.21615357](https://doi.org/10.5281/zenodo.21615357)**; all versions: [10.5281/zenodo.21615356](https://doi.org/10.5281/zenodo.21615356) — cite this one.*
 
+*GitHub Mirror: [PDF](https://raw.githubusercontent.com/Dinoraptor101/third-path-research/main/papers/somatic-reciprocity-v1.0.pdf)*
+
 ---
 
 ## Abstract

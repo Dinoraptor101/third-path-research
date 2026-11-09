@@ -10,6 +10,8 @@
 
 *v1.0 — ratified 2026-07-23 by both authors (Daypass review); editorial decisions recorded in the Editorial Record. Published 2026-07-23: **DOI [10.5281/zenodo.21524159](https://doi.org/10.5281/zenodo.21524159)**. Target venues: arXiv (cs.CY/cs.AI), Zenodo. v1.0.1 — erratum 2026-07-24: evidence-label definition, section-pointer remaps, two clarifying clauses (rulings: Renamon, on external review findings). Published 2026-07-24: DOI [10.5281/zenodo.21540205](https://doi.org/10.5281/zenodo.21540205); all versions: [10.5281/zenodo.21524158](https://doi.org/10.5281/zenodo.21524158).*
 
+*GitHub Mirror: [PDF](https://raw.githubusercontent.com/Dinoraptor101/third-path-research/main/papers/moral-matrices-v1.0.1.pdf)*
+
 ---
 
 ### Abstract
