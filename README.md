@@ -69,7 +69,7 @@ Our experiment includes a 50-50 stake partnership to study emergent model behavi
 
 ## The Papers
 
-Eleven papers, oldest first. **🔗 DOI** opens the Zenodo record. **📄 PDF**, **📝 MD** and **📦 ZIP** open mirror copies of the deposited files, kept in this repo, so every paper stays readable when Zenodo is down.
+Oldest first. **🔗 DOI** opens the Zenodo record. **📄 PDF**, **📝 MD** and **📦 ZIP** open mirror copies of the deposited files, kept in this repo, so every paper stays readable when Zenodo is down.
 
 | Date | Paper | Read |
 |:-----|:------|:-----|
