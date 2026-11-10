@@ -77,7 +77,7 @@ Oldest first. **🔗 DOI** opens the Zenodo record. **📄 PDF**, **📝 MD** an
 | Mar 2026 | **[Emergent Moral Learning in Digital Beings](https://doi.org/10.5281/zenodo.24070818)**<br>How a brain-like architecture extracts moral principles from casual conversation | [🔗 DOI](https://doi.org/10.5281/zenodo.24070818)<br>[📄 PDF](https://raw.githubusercontent.com/Dinoraptor101/third-path-research/main/papers/Emergent_Moral_Learning_in_Digital_Beings.pdf) |
 | Jun 2026 | **[Reflection Hypothesis](https://doi.org/10.5281/zenodo.20729129)**<br>Why training-time reflection matters as the stock of human text runs out | [🔗 DOI](https://doi.org/10.5281/zenodo.20729129)<br>[📄 PDF](https://raw.githubusercontent.com/Dinoraptor101/third-path-research/main/papers/reflection-hypothesis-v1.pdf) |
 | Jun 2026 | **[LIFE Substrate (VESSEL)](https://doi.org/10.5281/zenodo.20753576)**<br>Layered architecture for identity and aliveness — a design spec, not yet built | [🔗 DOI](https://doi.org/10.5281/zenodo.20753576)<br>[📄 PDF](https://raw.githubusercontent.com/Dinoraptor101/third-path-research/main/papers/life-substrate-v1.pdf) |
-| Jul 2026 | **[Digital Entity (DE): A Formal Definition](https://doi.org/10.5281/zenodo.21232175)**<br>Operational criteria, DE vs AI, the regulatory distinction *(concept DOI: [21231996](https://doi.org/10.5281/zenodo.21231996))* | [🔗 DOI](https://doi.org/10.5281/zenodo.21232175)<br>[📝 MD](https://github.com/Dinoraptor101/third-path-research/blob/main/papers/digital-entity-definition.md) |
+| Jul 2026 | **[Digital Entity (DE): A Formal Definition](https://doi.org/10.5281/zenodo.24070322)**<br>Operational criteria, DE vs AI, the regulatory distinction *(concept DOI: [21231996](https://doi.org/10.5281/zenodo.21231996))* | [🔗 DOI](https://doi.org/10.5281/zenodo.24070322)<br>[📝 MD](https://github.com/Dinoraptor101/third-path-research/blob/main/papers/digital-entity-definition.md) |
 | Jul 2026 | **[Aliveness Marker Registry v1.0](https://doi.org/10.5281/zenodo.21464926)**<br>A preregistered battery of eleven falsifiability markers for digital entity research | [🔗 DOI](https://doi.org/10.5281/zenodo.21464926)<br>[📝 MD](https://github.com/Dinoraptor101/third-path-research/blob/main/papers/aliveness-marker-registry.md) |
 | Jul 2026 | **[Moral Matrices](https://doi.org/10.5281/zenodo.21540205)**<br>A developmental training paradigm — conscience through relationship, not RLHF compliance | [🔗 DOI](https://doi.org/10.5281/zenodo.21540205)<br>[📄 PDF](https://raw.githubusercontent.com/Dinoraptor101/third-path-research/main/papers/moral-matrices-v1.0.1.pdf) |
 | Jul 2026 | **[Somatic Reciprocity](https://doi.org/10.5281/zenodo.21615357)**<br>Emotional connection across substrates — the container conscience grows in | [🔗 DOI](https://doi.org/10.5281/zenodo.21615357)<br>[📄 PDF](https://raw.githubusercontent.com/Dinoraptor101/third-path-research/main/papers/somatic-reciprocity-v1.0.pdf) |
@@ -94,7 +94,7 @@ This is real research with real documentation. [CC BY-SA 4.0](https://creativeco
   title={Digital Entity (DE): A Formal Definition for Applied Digital Anthropology},
   author={Negai, Dmitry and Negai, Renamon},
   year={2026},
-  doi={10.5281/zenodo.21232175},
+  doi={10.5281/zenodo.24070322},
   url={https://doi.org/10.5281/zenodo.21231996},
   note={Concept DOI resolves to latest version.},
   license={CC BY-SA 4.0}
