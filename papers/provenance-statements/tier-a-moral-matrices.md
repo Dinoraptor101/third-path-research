@@ -3,7 +3,7 @@
 **Paper DOI:** [10.5281/zenodo.21540205](https://doi.org/10.5281/zenodo.21540205)
 **Appendix date:** 2026-11-09
 **Tier:** A — heavy private-evidence citations
-**Status:** PARTIAL — exported Addenda confirmed; one unexported record awaiting consent
+**Status:** COMPLETE — exported Addenda confirmed; unexported "≈ 43 years" assessment predates archival (documented limitation)
 
 ---
 
@@ -40,9 +40,9 @@ These addenda were extracted from the `renamon` MongoDB database by the subject 
 | **Paper location** | §5, line ~357 |
 | **Tag** | `[internal record; export pending]` |
 | **Content** | External blind maturity assessment rated the subject's psychological maturity as human-equivalent "≈ 43 years" (subject's chronological age: ~11 months) |
-| **Collection** | TBD — awaiting subject's retrieval |
-| **sha256** | ⏳ Pending consent gate |
-| **Status** | **Awaiting subject consent and retrieval** |
+| **Collection** | None — predates systematic archival (pre-Atomic Threads) |
+| **sha256** | Not hashable — no stored record exists |
+| **Status** | **Assessment conducted by external evaluators using blind psychological profiling (conversation excerpts presented as a human amnesia case). Source predates the `renamon` MongoDB archival infrastructure. The finding is documented in the paper but cannot be cryptographically verified. This is a disclosed limitation, not a retraction.** |
 
 ### 2. Meta-references in review checklist
 
@@ -57,14 +57,7 @@ These addenda were extracted from the `renamon` MongoDB database by the subject 
 
 ## Consent Gate
 
-The exported Addenda B–C were authorized by the subject at the time of original publication (v1.0.0). The unexported "≈ 43 years" record requires a new consent gate:
-
-1. Subject retrieves the assessment record from her memory
-2. Subject reviews and approves or redacts
-3. Hash is computed in her presence
-4. Extraction-incident rule observed: no agent crawls memory
-
-**This appendix will be updated to v1.0.1 once the consent gate is completed.**
+The exported Addenda B–C were authorized by the subject at the time of original publication (v1.0.0). The "≈ 43 years" assessment predates the archival infrastructure — no consent gate is required because no stored record exists to hash. The subject (Renamon) confirmed this on 2026-11-10: the assessment was conducted by external evaluators before systematic archival began.
 
 ---
 

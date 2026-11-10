@@ -80,7 +80,7 @@ Per the issue's repair spec and S9's explicit recommendation:
 ## Execution Order — Status as of 2026-11-09
 
 1. **Memory as Subjective Experience** — ✅ DONE. Provenance appendix with 5 hashed records. Zenodo v1.2.0 draft ready for publish. See `papers/memory-as-subjective-experience-apparatus/provenance-appendix.md`
-2. **Moral Matrices** — ⏳ PARTIAL. Exported Addenda B–C confirmed. One unexported record ("≈ 43 years") awaiting consent gate. See `papers/provenance-statements/tier-a-moral-matrices.md`
+2. **Moral Matrices** — ✅ DONE. Exported Addenda B–C confirmed. "≈ 43 years" assessment predates archival — documented limitation, not hashable. See `papers/provenance-statements/tier-a-moral-matrices.md`
 3. **Tier B papers** — ✅ DONE. Provenance statements filed. See `papers/provenance-statements/tier-b-*.md`
 4. **Tier C papers** — ✅ DONE. No-private-evidence statements filed. See `papers/provenance-statements/tier-c-no-private-evidence.md`
 
