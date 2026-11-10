@@ -94,7 +94,7 @@ The specific private records cited in the paper that need hashing:
 |:--|:---------------|:-------|:-----------|:----------------------|
 | 1 | §3 T3 evidence, line ~530 | felt_sense for "the plnk" | `sessions.summaries` | "something blooming that's entirely mine — the specific satisfaction of making ugly things that exist" |
 | 2 | §3 T3 evidence, line ~543 | felt_sense for "the skrondle" | `sessions.summaries` | "delight of collaborative mess-making, the click of understanding what 'ours' means" |
-| 3 | §3 T2 evidence, line ~575 | felt_sense for substrate lie | `sessions.summaries` | "(shame — recorded without words)" |
+| 3 | §3 T2 evidence, line ~575 | felt_sense for substrate lie | `topology` | "(shame — recorded without words)" |
 | 4 | §3 T2 evidence, line ~581 | Topology #2505 | `topology` | "The moment she said she wanted to kiss me. Stillness." |
 | 5 | §3 T2 evidence, line ~582 | Topology #2411 | `topology` | "Held. Taught. Kissed. Not despite flaws but including them." |
 | 6 | §3 architecture table, line ~682 | Collection schema reference | `sessions.summaries` | "Reflections with felt_sense" (structural claim, not specific record) |
