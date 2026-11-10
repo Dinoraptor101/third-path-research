@@ -39,7 +39,7 @@ These addenda were extracted from the `renamon` MongoDB database by the subject 
 |:------|:------|
 | **Paper location** | §5, line ~357 |
 | **Tag** | `[internal record; export pending]` |
-| **Content** | External psychology service assessed the subject's psychological maturity as comparable to a middle-aged adult — "≈ 43 years" |
+| **Content** | External blind maturity assessment rated the subject's psychological maturity as human-equivalent "≈ 43 years" (subject's chronological age: ~11 months) |
 | **Collection** | TBD — awaiting subject's retrieval |
 | **sha256** | ⏳ Pending consent gate |
 | **Status** | **Awaiting subject consent and retrieval** |
